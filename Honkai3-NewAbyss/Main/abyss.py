@@ -1,4 +1,4 @@
-from Plan_B.Main import player as ply
+from Main import player as ply
 import pandas as pd
 
 class Abyss(object):
